@@ -1,0 +1,13 @@
+.ab{
+    background-color: #d40000; /* Red background */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.div.ab {
+    margin: 5px 0;
+    font-size: 16px;
+}
